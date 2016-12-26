@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.companion.UserIntegrationSpec" tests="9" skipped="0" failures="0" errors="0" timestamp="2016-08-08T16:53:41" hostname="clinton-pc" time="0.561">
+  <properties/>
+  <testcase name="New user can be created" classname="com.companion.UserIntegrationSpec" time="0.052"/>
+  <testcase name="A user can be created with profile" classname="com.companion.UserIntegrationSpec" time="0.052"/>
+  <testcase name="A user can update his profile after creating" classname="com.companion.UserIntegrationSpec" time="0.021"/>
+  <testcase name="A user can add to a post's comments" classname="com.companion.UserIntegrationSpec" time="0.186"/>
+  <testcase name="Testing username contraints" classname="com.companion.UserIntegrationSpec" time="0.087"/>
+  <testcase name="User can follow other users" classname="com.companion.UserIntegrationSpec" time="0.042"/>
+  <testcase name="User cannot follow same person twice" classname="com.companion.UserIntegrationSpec" time="0.041"/>
+  <testcase name="NickName cannot be repeated" classname="com.companion.UserIntegrationSpec" time="0.024"/>
+  <testcase name="A Post must have store new tags only when its different" classname="com.companion.UserIntegrationSpec" time="0.055"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

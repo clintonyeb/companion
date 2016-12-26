@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.companion.UserCommadSpec" tests="2" skipped="0" failures="0" errors="0" timestamp="2016-08-08T14:57:24" hostname="clinton-pc" time="0.814">
+  <properties/>
+  <testcase name="Verify that user can be authenticated via command object[0]" classname="com.companion.UserCommadSpec" time="0.802"/>
+  <testcase name="Verify that user can be authenticated via command object[1]" classname="com.companion.UserCommadSpec" time="0.01"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

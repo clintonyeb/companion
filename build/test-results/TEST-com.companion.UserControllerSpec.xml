@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.companion.UserControllerSpec" tests="2" skipped="0" failures="0" errors="0" timestamp="2016-08-08T14:57:25" hostname="clinton-pc" time="1.287">
+  <properties/>
+  <testcase name="Creating a new user" classname="com.companion.UserControllerSpec" time="1.259"/>
+  <testcase name="Creating user with service mocking" classname="com.companion.UserControllerSpec" time="0.027"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

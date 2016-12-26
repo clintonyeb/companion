@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.companion.NewsfeedFunctionalSpec" tests="1" skipped="0" failures="0" errors="0" timestamp="2016-08-08T16:53:17" hostname="clinton-pc" time="24.153">
+  <properties/>
+  <testcase name="Test the home page renders correctly" classname="com.companion.NewsfeedFunctionalSpec" time="24.153"/>
+  <system-out><![CDATA[Grails application running at http://localhost:45943 in environment: test
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

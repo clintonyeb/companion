@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.companion.UserServiceSpec" tests="5" skipped="0" failures="0" errors="0" timestamp="2016-08-08T14:57:21" hostname="clinton-pc" time="3.043">
+  <properties/>
+  <testcase name="A new user can be created" classname="com.companion.UserServiceSpec" time="2.669"/>
+  <testcase name="Exception is thrown with wrong credentials" classname="com.companion.UserServiceSpec" time="0.08"/>
+  <testcase name="User created can login" classname="com.companion.UserServiceSpec" time="0.196"/>
+  <testcase name="User attempts wih wrong credentials" classname="com.companion.UserServiceSpec" time="0.051"/>
+  <testcase name="User attempts wih wrong credentials 2" classname="com.companion.UserServiceSpec" time="0.043"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

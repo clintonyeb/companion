@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.companion.NewsfeedServiceSpec" tests="1" skipped="0" failures="0" errors="0" timestamp="2016-08-08T14:57:27" hostname="clinton-pc" time="0.38">
+  <properties/>
+  <testcase name="NewsSearch returns results" classname="com.companion.NewsfeedServiceSpec" time="0.38"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

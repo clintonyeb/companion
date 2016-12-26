@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="practise.Practise1Spec" tests="2" skipped="0" failures="0" errors="0" timestamp="2016-08-08T14:57:12" hostname="clinton-pc" time="5.764">
+  <properties/>
+  <testcase name="Stubbing Action 1" classname="practise.Practise1Spec" time="5.75"/>
+  <testcase name="Mocking Action 1" classname="practise.Practise1Spec" time="0.013"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
