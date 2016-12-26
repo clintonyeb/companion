@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.clinton.UserIntegrationSpec" tests="9" skipped="0" failures="0" errors="0" timestamp="2016-10-24T06:14:31" hostname="clinton-pc" time="0.667">
+  <properties/>
+  <testcase name="New user can be created" classname="com.clinton.UserIntegrationSpec" time="0.074"/>
+  <testcase name="A user can be created with profile" classname="com.clinton.UserIntegrationSpec" time="0.093"/>
+  <testcase name="A user can update his profile after creating" classname="com.clinton.UserIntegrationSpec" time="0.044"/>
+  <testcase name="A user can add to a post's comments" classname="com.clinton.UserIntegrationSpec" time="0.123"/>
+  <testcase name="Testing username contraints" classname="com.clinton.UserIntegrationSpec" time="0.116"/>
+  <testcase name="User can follow other users" classname="com.clinton.UserIntegrationSpec" time="0.056"/>
+  <testcase name="User cannot follow same person twice" classname="com.clinton.UserIntegrationSpec" time="0.054"/>
+  <testcase name="NickName cannot be repeated" classname="com.clinton.UserIntegrationSpec" time="0.034"/>
+  <testcase name="A Post must have store new tags only when its different" classname="com.clinton.UserIntegrationSpec" time="0.072"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

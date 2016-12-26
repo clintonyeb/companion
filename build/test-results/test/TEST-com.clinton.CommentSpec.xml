@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.clinton.CommentSpec" tests="1" skipped="0" failures="0" errors="0" timestamp="2016-10-24T06:11:46" hostname="clinton-pc" time="0.878">
+  <properties/>
+  <testcase name="test something" classname="com.clinton.CommentSpec" time="0.878"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

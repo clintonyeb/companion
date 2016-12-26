@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.clinton.NewsfeedIntSpec" tests="1" skipped="0" failures="1" errors="0" timestamp="2016-10-24T06:14:07" hostname="clinton-pc" time="23.262">
+  <properties/>
+  <testcase name="adding comments to news" classname="com.clinton.NewsfeedIntSpec" time="23.262">
+    <failure message="Condition not satisfied:&#10;&#10;news1 == Newsfeed.get(1)&#10;|     |           |&#10;|     false       com.clinton.Newsfeed : 1&#10;com.clinton.Newsfeed : 11&#10;" type="org.spockframework.runtime.SpockComparisonFailure">Condition not satisfied:
+
+news1 == Newsfeed.get(1)
+|     |           |
+|     false       com.clinton.Newsfeed : 1
+com.clinton.Newsfeed : 11
+
+	at com.clinton.NewsfeedIntSpec.$tt__$spock_feature_0_0(NewsfeedIntSpec.groovy:34)
+	at com.clinton.NewsfeedIntSpec.adding comments to news_closure3(NewsfeedIntSpec.groovy)
+	at groovy.lang.Closure.call(Closure.java:414)
+	at groovy.lang.Closure.call(Closure.java:430)
+	at grails.transaction.GrailsTransactionTemplate$1.doInTransaction(GrailsTransactionTemplate.groovy:70)
+	at org.springframework.transaction.support.TransactionTemplate.execute(TransactionTemplate.java:133)
+	at grails.transaction.GrailsTransactionTemplate.executeAndRollback(GrailsTransactionTemplate.groovy:67)
+	at com.clinton.NewsfeedIntSpec.adding comments to news(NewsfeedIntSpec.groovy)
+</failure>
+  </testcase>
+  <system-out><![CDATA[Grails application running at http://localhost:37999 in environment: test
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
